@@ -1,5 +1,13 @@
 # List of websites that work in Android app WebApps
 
-- dict.cc
+- m.dict.cc
 - m.aliexpress.com
 - duckduckgo.com
+- sleepyti.me
+- howsmyssl.com
+- mobile.twitter.com
+- reddit.com
+- mdbg.net
+- test-ipv6.com
+- news.ycombinator.com
+- m.facebook.com
