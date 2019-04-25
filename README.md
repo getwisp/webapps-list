@@ -1,4 +1,4 @@
-# List of websites that work in Android app WebApps
+# List of websites that work in the Android app WebApps
 
 - m.dict.cc
 - m.aliexpress.com
